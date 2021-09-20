@@ -12,7 +12,6 @@ glob
 numpy
 
 
-
 Usage:
 
 Edit the data_path in project.py according to your dataset directory
