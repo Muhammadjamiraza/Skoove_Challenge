@@ -28,3 +28,6 @@ Edit the data_path in project.py according to your dataset directory.
 
 
 Run the file through terminal
+
+
+
