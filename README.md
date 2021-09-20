@@ -1,27 +1,27 @@
 # Skoove_Challenge
 
-Requirements:
+## Requirements:
 
-matplotlib == 3.3.3
+1. matplotlib == 3.3.3
 
-pretty_midi
+1. pretty_midi
 
-panadas
+1. panadas
 
-mir_eval
+1. mir_eval
 
-madmom
+1. madmom
 
-pickle
-
-
-glob
-
-numpy
+1. pickle
 
 
+1. glob
 
-Usage:
+1. numpy
+
+
+
+## Usage:
 
 
 Edit the data_path in project.py according to your dataset directory.
