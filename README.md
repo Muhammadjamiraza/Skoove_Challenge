@@ -6,7 +6,7 @@
 
 1. pretty_midi
 
-1. panadas
+1. pandas
 
 1. mir_eval
 
@@ -27,7 +27,9 @@
 Edit the **_data_path_** in project.py according to your dataset directory.
 
 
-Run the file through terminal
+Run the file through terminal.
+
+I had run this code using Conda Environment.
 
 
 
